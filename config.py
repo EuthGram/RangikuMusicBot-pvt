@@ -24,8 +24,8 @@ UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/TEAMPURVI/ALPHA_MUSI
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/PURVI_BOTS")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/PURVI_UPDATES")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/EuthGram")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/EuthGram")
 
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
 
@@ -50,10 +50,10 @@ votemode = {}
 autoclean = []
 confirmer = {}
 
-START_IMG_URL = getenv("START_IMG_URL", "https://files.catbox.moe/fu6jk3.jpg")
-PING_IMG_URL = getenv("PING_IMG_URL", "https://files.catbox.moe/26nzoq.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "https://i.ibb.co/Mxbf5qt3/tmpv3ua-vww.jpg")
+PING_IMG_URL = getenv("PING_IMG_URL", "https://i.ibb.co/Mxbf5qt3/tmpv3ua-vww.jpg")
 PLAYLIST_IMG_URL = "https://files.catbox.moe/f2s4ws.jpg"
-STATS_IMG_URL = "https://files.catbox.moe/z0gh23.jpg"
+STATS_IMG_URL = "https://i.ibb.co/Mxbf5qt3/tmpv3ua-vww.jpg"
 TELEGRAM_AUDIO_URL = "https://files.catbox.moe/2y5o3g.jpg"
 TELEGRAM_VIDEO_URL = "https://files.catbox.moe/2y5o3g.jpg"
 STREAM_IMG_URL = "https://telegra.ph/file/d30d11c4365c025c25e3e.jpg"
